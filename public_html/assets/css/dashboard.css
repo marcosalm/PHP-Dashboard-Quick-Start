@@ -1,0 +1,11 @@
+h1 span {
+	color:gray;
+	font-size:22px;
+}
+form {
+	margin:0;
+}
+.alert {
+	margin-top:20px;
+	padding:10px;
+}
